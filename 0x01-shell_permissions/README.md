@@ -1,1 +1,1 @@
-chmod --refence-olleh hello
+task 10
