@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+move the file betty frm /tmp/ to /tmp/my_first_director  
