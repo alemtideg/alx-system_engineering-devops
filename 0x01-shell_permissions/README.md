@@ -1,1 +1,1 @@
-chmod 753 hello
+chmod --refence-olleh hello
